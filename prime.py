@@ -38,5 +38,3 @@ while True:
         print ('Number entered is not a prime number.')
         break
     break
-
-
