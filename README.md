@@ -1,3 +1,5 @@
+#Prime Numbers
+
 A Python script, named prime.py, which prompts the user to enter a decimal number containing up to 3 digits 
 and determines whether the number entered is a prime number.
 
