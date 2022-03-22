@@ -1,6 +1,5 @@
 # PrimeNumbers
-
-This is a Git repository that contains the python script for 
+This is a Git repository that contains the Python script for 
 Part 1 of Assignment 2 of _Introduction in Python Programming_ Part Time Course of Cardiff University.
 
 A Python script, named prime.py, which prompts the user to enter a decimal number containing up to 3 digits 
